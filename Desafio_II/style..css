@@ -1,0 +1,12 @@
+/* Seletores: tags, classes ou IDs */
+h1 {
+  font-size: 50px;
+  color: blue;
+}
+p {
+  font-size: 30px;
+  color: aqua;
+}
+
+/* #primeiro-paragrafo
+#segundo-paragrafo */
